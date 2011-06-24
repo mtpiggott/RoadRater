@@ -1,0 +1,6 @@
+Author:
+    Michael Piggott
+Date:
+    06/23/2011
+Description:
+    This is the specification for RoadRater. Enclosed are feature list, requirements, and intended behaviour.
