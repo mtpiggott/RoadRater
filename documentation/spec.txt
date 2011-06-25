@@ -3,4 +3,24 @@ Author:
 Date:
     06/23/2011
 Description:
-    This is the specification for RoadRater. Enclosed are feature list, requirements, and intended behaviour.
+    This is the specification for RoadRater. Enclosed are feature list,
+    requirements, and intended behaviour.
+
+Metrics:
+    Twists per Mile:
+        The ratio of number of twists and length of road. This indicates how
+        much activity there is for the driver. The higher the number the 
+        better.
+
+    Median Curve Angle:
+        The median angle of curves that make up a road. Indicator of how many
+        g-forces one feels over the course of the road. The higher the number
+        the better.
+
+    Remoteness:
+        Distance of the middle of the road from a town. Indicator of road
+        crowding. The higher the number the better.
+
+Glossary:
+    Twist - TBD
+
