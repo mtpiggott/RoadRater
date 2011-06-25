@@ -1,14 +1,10 @@
 /*
  * Author:      Michael Piggott
  * Date:        06/24/2011
- * File:        main.cpp
+ * File:        metrics.h
  * Description: RoadRater rates roads based on several metrics.
  */
+#ifndef METRICS_H
+#define METRICS_H
 
-/* Includes */
-#include <iostream>
-#include "metrics/metrics.h"
-
-int main (int argc, char* argv[])
-{
-}
+#endif
